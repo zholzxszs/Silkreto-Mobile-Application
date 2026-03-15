@@ -19,7 +19,7 @@ class _ManualSectionState extends State<ManualSection> {
 
   static const String _appVersion = 'v1.0.0';
   static const String _githubUrl =
-      'https://github.com/zholzxszs/Silkreto-Mobile-App.git';
+      'https://github.com/zholzxszs/Silkreto-Mobile-Application';
   static const double _manualScreenshotAspectRatio = 1620 / 2880;
 
   TextStyle get _h1 => GoogleFonts.nunito(
