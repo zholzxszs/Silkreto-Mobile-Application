@@ -110,5 +110,6 @@ Please note that:
 If you have concerns, questions, or would like to request access to the project for **research or academic purposes**, you may contact the researcher via email.
 
 📧 **Email:** jlegaspina8683@student.dmmmsu.edu.ph
+               legaspinajudiel10@gmail.com
 
 Please include a brief description of your request and intended use when sending an email.
